@@ -11,7 +11,8 @@ public class BusinessProjectApplication {
 	public static void main(String[] args)
 	{
 		SpringApplication.run(BusinessProjectApplication.class, args);
-	
+
+		System.out.println("welcome to my application");
 	}
 
 }
